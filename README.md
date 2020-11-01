@@ -26,7 +26,7 @@ After downloading or cloning the repo, execute the following steps:
 
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime
 - [Express](https://expressjs.com/en/4x/api.html#express) - Server Framework
-- [postman-request]](https://github.com/postmanlabs/postman-request#readme) - Requests
+- [postman-request](https://github.com/postmanlabs/postman-request#readme) - Requests
 - [Mapbox API](https://www.mapbox.com/) - Coordinates (latitude and longitude)
 - [Weatherstack](https://weatherstack.com/) - Weather information
 - [Heroku](https://dashboard.heroku.com/apps) - Deployment platform
